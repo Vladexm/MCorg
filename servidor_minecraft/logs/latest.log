@@ -255,3 +255,18 @@
 [14Jul2024 21:18:06.417] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /127.152.138.86:49289: Failed to verify username!
 [14Jul2024 21:18:06.419] [User Authenticator #7/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'pashooo' tried to join with an invalid session
 [14Jul2024 21:18:06.435] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.152.138.86:49289 lost connection: Failed to verify username!
+[14Jul2024 21:29:02.943] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /127.152.138.86:48369: Failed to verify username!
+[14Jul2024 21:29:02.945] [User Authenticator #8/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'pashooo' tried to join with an invalid session
+[14Jul2024 21:29:02.985] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.152.138.86:48369 lost connection: Failed to verify username!
+[14Jul2024 21:29:24.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Whitelist is already turned off
+[14Jul2024 21:29:38.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That player does not exist
+[14Jul2024 21:29:42.391] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /127.152.138.86:50327: Failed to verify username!
+[14Jul2024 21:29:42.401] [User Authenticator #9/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'pashooo' tried to join with an invalid session
+[14Jul2024 21:29:42.435] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.152.138.86:50327 lost connection: Failed to verify username!
+[14Jul2024 21:29:52.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: That player does not exist
+[14Jul2024 21:29:55.918] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /127.152.138.86:45549: Failed to verify username!
+[14Jul2024 21:29:55.919] [User Authenticator #10/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'pashooo' tried to join with an invalid session
+[14Jul2024 21:29:55.935] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.152.138.86:45549 lost connection: Failed to verify username!
+[14Jul2024 21:34:36.864] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /127.152.138.86:47289: Failed to verify username!
+[14Jul2024 21:34:36.866] [User Authenticator #11/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'pashooo' tried to join with an invalid session
+[14Jul2024 21:34:36.885] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.152.138.86:47289 lost connection: Failed to verify username!
