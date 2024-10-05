@@ -1,1 +1,1 @@
-#server Zombie
+#server
